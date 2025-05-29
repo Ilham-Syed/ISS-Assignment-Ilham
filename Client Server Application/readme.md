@@ -1,7 +1,5 @@
 # Client Server Integration
 
-This repository contains various modules and their outputs.
-
 ## User Authentication Output Images
 
 ### 1. Registration Output

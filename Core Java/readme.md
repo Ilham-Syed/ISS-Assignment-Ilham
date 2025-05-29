@@ -1,7 +1,5 @@
 # Core Java
 
-This folder contains Java source code and related output images.
-
 ## Output Images
 
 ### 1. Java Basics
@@ -32,5 +30,8 @@ This folder contains Java source code and related output images.
 ![Image 9](assets/9.1%20XML.jpg)
 ![Image 10](assets/9.2%20XML.jpg)
 
-### 10. File I/O
-![Image 10](assets/11.%20File%20IO.jpg)
+### 10. JDBC
+![Image 11](assets/10.%20JDBC.jpg)
+
+### 11. File I/O
+![Image 12](assets/11.%20File%20IO.jpg)
