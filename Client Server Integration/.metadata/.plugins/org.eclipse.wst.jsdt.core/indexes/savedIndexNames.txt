@@ -1,0 +1,4 @@
+INDEX VERSION 1.4+D:\ISS Pre-joining Assignments\Client Server Integration\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+594103446.index
+752362764.index
+468102113.index

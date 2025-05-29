@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+D:\ISS Pre-joining Assignments\Client Server Integration\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4120686753.index
+\HelloWorldApp\src\main\java
+D:\ISS Pre-joining Assignments\Client Server Integration\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\594103446.index
+\UserAuthentication\src\main\java
+D:\ISS Pre-joining Assignments\Client Server Integration\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4130110513.index
+\HelloWorldApp\src\main\java

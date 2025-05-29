@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+D:\ISS Pre-joining Assignments\Client Server Integration\.metadata\.plugins\org.eclipse.jdt.core
+752362764.index
+1865797976.index
+361117614.index
+468102113.index

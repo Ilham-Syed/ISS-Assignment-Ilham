@@ -1,0 +1,3 @@
+Hello, Ilham! This is a sample text file.
+Welcome to Java File I/O.
+I live in Mumbai
