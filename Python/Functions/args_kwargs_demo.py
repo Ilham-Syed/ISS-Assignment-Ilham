@@ -1,5 +1,5 @@
 # Using *args to pass variable-length arguments
-
+print("Using *args to pass variable-length arguments")
 def sum_numbers(*nums):
     sum=0
     for num in nums:
@@ -11,6 +11,7 @@ print(sum_numbers(1, 2, 3, 4, 5))
 
 
 # Using **kwargs to pass variable-length keyword arguments
+print("\nUsing **kwargs to pass variable-length keyword arguments")
 def intro(**data):
     print("\nData type of argument:",type(data))
 
