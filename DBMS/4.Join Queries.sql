@@ -24,7 +24,7 @@ SELECT e.FirstName, e.Department, d.Manager
 FROM Employees e
 RIGHT JOIN Departments d ON e.Department = d.DeptName;
 
--- Full Join (not supported in MySQL directly; use UNION)
+-- Full Join
 SELECT e.FirstName, e.Department, d.Manager
 FROM Employees e
 LEFT JOIN Departments d ON e.Department = d.DeptName
